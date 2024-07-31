@@ -1,0 +1,7 @@
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.csproj.AssemblyReference.cache
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfoInputs.cache
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.AssemblyInfo.cs
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.csproj.CoreCompileInputs.cache
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\C1\RiderProjects\Todo\Todo\obj\Debug\net8.0\Todo.MvcApplicationPartsAssemblyInfo.cache

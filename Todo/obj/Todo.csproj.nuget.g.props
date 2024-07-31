@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\C1\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.9.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\C1\.nuget\packages\" />
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\appsettings.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\contentFiles\any\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.003</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>appsettings.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoList.staticwebassets.runtime.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.deps.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest.runtimeconfig.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\bin\Debug\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\bin\Debug\net6.0\appsettings.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\obj\TodoListTest.csproj.nuget.dgspec.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\project.assets.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\TodoListTest\obj\project.assets.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>TodoListTest\obj\project.assets.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\appsettings.Development.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\appsettings.Development.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>appsettings.Development.json</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\appsettings.json" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\contentFiles\any\net6.0\appsettings.json')">
+      <NuGetPackageId>todolist.08.03.23.001</NuGetPackageId>
+      <NuGetPackageVersion>1.0.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>appsettings.json</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)metafrm.sqlite.sqlitehelper.net8.0\8.0.3.24\contentFiles\any\net8.0\icon.ico" Condition="Exists('$(NuGetPackageRoot)metafrm.sqlite.sqlitehelper.net8.0\8.0.3.24\contentFiles\any\net8.0\icon.ico')">
+      <NuGetPackageId>MetaFrm.SQLite.SQLiteHelper.net8.0</NuGetPackageId>
+      <NuGetPackageVersion>8.0.3.24</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>icon.ico</Link>
+    </Content>
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.6\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\6.0.6\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication\7.0.0-preview.4.22251.1\buildTransitive\Microsoft.AspNetCore.Components.WebAssembly.Authentication.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly.authentication\7.0.0-preview.4.22251.1\buildTransitive\Microsoft.AspNetCore.Components.WebAssembly.Authentication.props')" />
+    <Import Project="$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\buildTransitive\todolist.08.03.23.003.props" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.003\1.0.0\buildTransitive\todolist.08.03.23.003.props')" />
+    <Import Project="$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\buildTransitive\todolist.08.03.23.001.props" Condition="Exists('$(NuGetPackageRoot)todolist.08.03.23.001\1.0.0\buildTransitive\todolist.08.03.23.001.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.props')" />
+    <Import Project="$(NuGetPackageRoot)swashbuckle.aspnetcore\6.4.0\build\Swashbuckle.AspNetCore.props" Condition="Exists('$(NuGetPackageRoot)swashbuckle.aspnetcore\6.4.0\build\Swashbuckle.AspNetCore.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">C:\Users\C1\.nuget\packages\microsoft.extensions.apidescription.server\6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
+  </PropertyGroup>
+</Project>
